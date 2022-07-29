@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
 	/* var i8 int8
 	var i16 int16
@@ -40,7 +36,7 @@ func main() {
 
 	fmt.Printf("%T %dB %v~%v\n", imax, unsafe.Sizeof(imax), imin, imax) */
 
-	// 十进制
+	/* // 十进制
 	var a int = 10
 	fmt.Printf("%d \n", a)
 	fmt.Printf("%b \n", a)
@@ -53,5 +49,16 @@ func main() {
 	// 十六进制
 	var c int = 0xff
 	fmt.Printf("%x \n", c)
-	fmt.Printf("%X \n", c)
+	fmt.Printf("%X \n", c) */
+
+	/* fmt.Printf("%f\n", math.Pi)
+	fmt.Printf("%.2f", math.Pi) */
+
+	/* var c1 complex64
+	c1 = 1 + 2i
+	var c2 complex128
+	c2 = 2 + 3i
+	fmt.Println(c1)
+	fmt.Println(c2) */
+
 }
