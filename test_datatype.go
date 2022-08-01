@@ -1,4 +1,4 @@
-package main
+/* package main
 
 func main() {
 
@@ -20,3 +20,4 @@ func main() {
 	fmt.Printf("%T\n", age)
 	fmt.Printf("%T\n", b) */
 }
+ */

@@ -1,4 +1,4 @@
-package main
+/* package main
 
 type WebSite struct {
 	Name string
@@ -32,3 +32,4 @@ func main() {
 	p := &x
 	fmt.Printf("p: %p\n", p) */
 }
+ */

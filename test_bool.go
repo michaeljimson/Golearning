@@ -1,4 +1,4 @@
-package main
+/* package main
 
 func main() {
 
@@ -43,3 +43,4 @@ func main() {
 	fmt.Printf("b6: %v\n", b6)
 	*/
 }
+ */
