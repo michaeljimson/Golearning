@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -13,7 +13,6 @@ func test1() {
 	}
 
 }
-
 func test2() {
 
 	var s1 = []int{1, 2, 3, 4, 5}
@@ -30,3 +29,5 @@ func main() {
 	fmt.Println("-----------")
 	test2()
 }
+ 
+*/
