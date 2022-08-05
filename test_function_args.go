@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -40,3 +40,4 @@ func main() {
 	f3(3, 4, 5, 6, 7) */
 	f4("michale", true, 1, 2, 3, 4)
 }
+ */
