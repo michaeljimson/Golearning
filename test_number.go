@@ -1,4 +1,4 @@
-package main
+/* package main
 
 func main() {
 	/* var i8 int8
@@ -62,3 +62,4 @@ func main() {
 	fmt.Println(c2) */
 
 }
+ */

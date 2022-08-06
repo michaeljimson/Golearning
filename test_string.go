@@ -1,4 +1,4 @@
-package main
+/* package main
 
 func main() {
 	/* var s string = "Hello world"
@@ -66,3 +66,4 @@ func main() {
 	   	fmt.Printf("strings.LastIndex(s, \"ld\"): %v\n", strings.LastIndex(s, "ld"))
 	*/
 }
+ */

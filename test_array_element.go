@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -13,7 +13,6 @@ func test1() {
 	/* // 数组长度越界
 	a1[3] = 1000 */
 }
-
 func test2() {
 	// 数组的长度
 	var a1 = [3]int{1, 2, 3}
@@ -22,7 +21,6 @@ func test2() {
 	var a2 = [...]int{1, 2, 3, 4}
 	fmt.Printf("len(a2): %v\n", len(a2))
 }
-
 func test3() {
 	// 数组的遍历 1. 根据长度和下标
 
@@ -31,7 +29,6 @@ func test3() {
 		fmt.Printf("a1[%v]: %v\n", i, a1[i])
 	}
 }
-
 func test4() {
 	var a1 = [3]int{1, 2, 3}
 	/* for i, v := range a1 {
@@ -46,4 +43,4 @@ func main() {
 	// test2()
 	// test3()
 	test4()
-}
+}*/ 

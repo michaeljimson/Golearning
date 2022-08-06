@@ -1,4 +1,4 @@
-package main
+/* package main
 
 /* "Golearning/user"
 "fmt" */
@@ -61,3 +61,4 @@ func main() {
 	fmt.Printf("b: %v\n", b)
 	*/
 }
+ */

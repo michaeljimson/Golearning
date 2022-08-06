@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -79,11 +79,12 @@ func main() {
 	b = b >> 2
 	fmt.Printf("b: %v\n", b) */
 
-	a := 100
+	/* a := 100
 	a = 200
 	fmt.Printf("a: %v\n", a)
 	a = getA()
 	fmt.Printf("a: %v\n", a)
 	a += 100
-	fmt.Printf("a: %v\n", a)
+	fmt.Printf("a: %v\n", a) */
 }
+ */
